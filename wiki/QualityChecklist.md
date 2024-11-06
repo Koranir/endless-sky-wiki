@@ -34,7 +34,7 @@ New star systems:
 
 - [ ] The planet sprites with city lights should only be used for inhabited planets.
 - [ ] Planet descriptions should roughly track whether they're in the hot or the cold range of the habitable zone.
-- [ ] System name text should not overlap when the map is viewed at 100%.
+- [ ] System name text and graphics should avoid overlapping at any zoom levels of the map to maintain overall readability.
 - [ ] Try to put something funny or interesting in each planet description.
 - [ ] Planet descriptions must be short enough to fit in the landing UI.
 - [ ] New systems that are inside human space won't be accepted into the main game data unless there's a good plot reason for them.

@@ -6,6 +6,8 @@ My goal for the UI was to be as minimalist and distraction-free as possible, yet
 
 The UI is nearly all monochrome except for certain key pieces of information. This meshes well with the human ships (which are also mostly monochrome plus colored fins for identification). But, if you look closely, there are small graphical frills in nearly all the UI panels. These include sets of parallel lines intended to look like circuit traces, tiny, faint text and numerals, and various other geometric shapes intended to be the heads-up-display equivalent of the needlessly complex gears and other mechanisms found in steampunk art.
 
+When it comes to the map, the goal is to have it so that systems are parsable at all zoom levels to avoid clunky visuals and overlapping text that may appear daunting or be difficult to read for the player. While some territories of the map are meant to have different densities (i.e, Wanderer space is more spread out, and systems near the core by the Korath are more close together than this), it is important to have visuals consistently readable in all venues of the game regardless of the interaction level; too much clutter becomes an issue.
+
 ### Space artwork
 
 My goal here was simple: I should be able to use actual NASA images of planets and have them be indistinguishable from the "artificial" planet artwork that I create. Every planet and moon in the "Sol" system is a real image from NASA. The artificial planets need to be relatively subtle, both in their atmospheric effects and in their colors, to match the real images.
